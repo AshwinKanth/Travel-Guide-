@@ -1,0 +1,29 @@
+.listItem-container {
+  list-style: none;
+  width: 500px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+}
+
+.image {
+  width: 500px;
+}
+
+.details-container {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.name {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 25px;
+ 
+}
+
+.description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 21px;
+}
